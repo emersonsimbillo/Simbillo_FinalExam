@@ -17,8 +17,8 @@ export const ACCOUNT: Account[] = [
 		gender: "Male",
 		marital_status: "Single",
 		date_of_birth: "February 03, 1999",
-		SSS_number: 111111,
-		TIN: 1111111,
+		SSS_number: 123123123,
+		TIN: 1231231,
 	},
 
 	{
